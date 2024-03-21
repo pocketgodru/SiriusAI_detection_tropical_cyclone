@@ -207,15 +207,15 @@ _Материал:_  [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=438192
 
 Изображение с требованиями по формату файла аннотации для модели YOLO c официального сайта:
 
-<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/85db9e09-b14a-4246-a7b0-6602a97449c4" height="50%" width="50%">
-<br>
+![image](https://github.com/pocketgodru/Detection_cyclone/assets/104260621/2c3c5365-b746-440e-adef-833a2ae213eb)
+
 Изначальный формат данных в датасете:
 
-<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/60f27661-d6b6-4c3f-86ac-4f3a3f53f9d5" height="50%" width="50%">
-<br>
+![image (1)](https://github.com/pocketgodru/Detection_cyclone/assets/104260621/729ace97-333d-4364-be57-56c8ff2b3240)
+
 Формат после обработки скриптом:
 
-<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/9ec73d34-6849-4178-9760-517fb9f76746" height="50%" width="50%">
+![image (2)](https://github.com/pocketgodru/Detection_cyclone/assets/104260621/aae54063-4ca8-418e-8291-74fb38bfe9d2)
 
 # 🤖Обучение модели
 Прежде чем обучать модель было необходимо определиться с архитектурой нейронной сети.
@@ -227,7 +227,7 @@ _Материал:_  [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=438192
 
 # 🔃Схема взаимодействия с моделью
 
-<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/7c05e9d1-1511-44ac-9d52-2f62f532a4d7" height="70%" width="70%">
+<img width="1264" alt="Untitled" src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/403c9bb7-5320-4768-a1f9-e40620baa2ec">
 
 1. Загрузка изображения.
 
@@ -269,11 +269,11 @@ _Материал:_  [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=438192
 **8. Футер с контактной информацией**
 В нижней части страницы находится футер, содержащий контактную информацию команды - "2024 {Svet} / АНО ДО Детский телефон "Кванториум" г. Ульяновск".
 
-<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/fcedb4dc-c22c-4feb-a09f-146059c28205" height="70%" width="70%">
+<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/fcedb4dc-c22c-4feb-a09f-146059c28205" height="60%" width="60%">
 
-<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/2af7f686-8375-43f0-b3e1-bd2d14a58392" height="70%" width="70%">
+<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/2af7f686-8375-43f0-b3e1-bd2d14a58392" height="60%" width="60%">
 
-<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/597ce69f-71bc-4bca-813b-f97c1d229735" height="70%" width="70%">
+<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/597ce69f-71bc-4bca-813b-f97c1d229735" height="60%" width="60%">
 
 # 🔜Совершенствование проекта
 **1.  Улучшение точности модели**
