@@ -209,9 +209,11 @@ _Материал:_  [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=438192
 
 ![image](https://github.com/pocketgodru/Detection_cyclone/assets/104260621/2c3c5365-b746-440e-adef-833a2ae213eb)
 
+
 Изначальный формат данных в датасете:
 
 ![image (1)](https://github.com/pocketgodru/Detection_cyclone/assets/104260621/729ace97-333d-4364-be57-56c8ff2b3240)
+
 
 Формат после обработки скриптом:
 
