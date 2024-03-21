@@ -227,7 +227,7 @@ _Материал:_  [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=438192
 
 # 🔃Схема взаимодействия с моделью
 
-<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/7c05e9d1-1511-44ac-9d52-2f62f532a4d7" height="100%" width="100%">
+<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/7c05e9d1-1511-44ac-9d52-2f62f532a4d7" height="70%" width="70%">
 
 1. Загрузка изображения.
 
@@ -269,11 +269,11 @@ _Материал:_  [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=438192
 **8. Футер с контактной информацией**
 В нижней части страницы находится футер, содержащий контактную информацию команды - "2024 {Svet} / АНО ДО Детский телефон "Кванториум" г. Ульяновск".
 
-<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/fcedb4dc-c22c-4feb-a09f-146059c28205" height="100%" width="100%">
+<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/fcedb4dc-c22c-4feb-a09f-146059c28205" height="70%" width="70%">
 
-<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/2af7f686-8375-43f0-b3e1-bd2d14a58392" height="100%" width="100%">
+<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/2af7f686-8375-43f0-b3e1-bd2d14a58392" height="70%" width="70%">
 
-<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/597ce69f-71bc-4bca-813b-f97c1d229735" height="100%" width="100%">
+<img src="https://github.com/pocketgodru/Detection_cyclone/assets/104260621/597ce69f-71bc-4bca-813b-f97c1d229735" height="70%" width="70%">
 
 # 🔜Совершенствование проекта
 **1.  Улучшение точности модели**
